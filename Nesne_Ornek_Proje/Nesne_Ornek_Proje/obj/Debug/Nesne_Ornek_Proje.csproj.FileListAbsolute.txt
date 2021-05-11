@@ -1,0 +1,14 @@
+C:\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\obj\Debug\Nesne_Ornek_Proje.csprojAssemblyReference.cache
+C:\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\obj\Debug\Nesne_Ornek_Proje.csproj.CoreCompileInputs.cache
+C:\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\bin\Debug\Nesne_Ornek_Proje.exe.config
+C:\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\bin\Debug\Nesne_Ornek_Proje.exe
+C:\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\bin\Debug\Nesne_Ornek_Proje.pdb
+C:\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\obj\Debug\Nesne_Ornek_Proje.exe
+C:\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\obj\Debug\Nesne_Ornek_Proje.pdb
+C:\Windows.old\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\bin\Debug\Nesne_Ornek_Proje.exe.config
+C:\Windows.old\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\bin\Debug\Nesne_Ornek_Proje.exe
+C:\Windows.old\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\bin\Debug\Nesne_Ornek_Proje.pdb
+C:\Windows.old\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\obj\Debug\Nesne_Ornek_Proje.csprojAssemblyReference.cache
+C:\Windows.old\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\obj\Debug\Nesne_Ornek_Proje.csproj.CoreCompileInputs.cache
+C:\Windows.old\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\obj\Debug\Nesne_Ornek_Proje.exe
+C:\Windows.old\Users\zehol\source\repos\Nesne_Ornek_Proje\Nesne_Ornek_Proje\obj\Debug\Nesne_Ornek_Proje.pdb
